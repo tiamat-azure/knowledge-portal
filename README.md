@@ -20,3 +20,5 @@ Subject                      | Tags         | Link
 [markdown-youtube]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 [emoji-url]: https://emojipedia.org/
+
+[font-url]: https://www.fontspace.com

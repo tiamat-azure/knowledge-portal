@@ -22,3 +22,4 @@ Subject                      | Tags         | Link
 [emoji-url]: https://emojipedia.org/
 
 [font-url]: https://www.fontspace.com
+[quote-url]: http://wisdomquotes.com/spiritual-quotes/

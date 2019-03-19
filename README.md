@@ -9,9 +9,22 @@ Subject                      | Tags         | Link
 ---------------------------- | ------------ | ---------------------------
 ![Tiger][tiger-image] [Markdown][markdown-tuto]    | `language`   | [CheatSheet][markdown-cheat]
  
+## Various
+[Emoji][emoji-url]
+
+[Font][font-url]
+
+[Quote][quote-url]
+
+[Shield][shields-url]
 
 ## Markdown
 [Tuto][markdown-tuto]
+
+[CheatSheet][markdown-cheat]
+
+[Emoji][markdown-emoji]
+
 
 ## Angular
 [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
@@ -22,7 +35,6 @@ Subject                      | Tags         | Link
 [markdown-tuto]: https://guides.github.com/features/mastering-markdown/
 [markdown-cheat]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 [markdown-emoji]: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-[markdown-youtube]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 [emoji-url]: https://emojipedia.org/
 

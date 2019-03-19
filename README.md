@@ -1,17 +1,32 @@
+One of my favorite quote:
+
+> _We are not human beings on a spiritual journey. We are spiritual beings on a human journey._
+
 # knowledge-portal
 Purpose : centralize synthetic litterature, tutorials, tools about fullstack developement.
 
-http://github.com - automatic!
+Subject                      | Tags         | Link
+---------------------------- | ------------ | ---------------------------
+![Tiger][tiger-image] [Markdown][markdown-tuto]    | `language`   | [CheatSheet][markdown-cheat]
+ 
 
-[GitHub](http://github.com)
+## Markdown
+[Tuto][markdown-tuto]
 
-![GitHub Logo](/images/jhipster.jpg)
+## Angular
+[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 
+[tiger-image]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojione/178/tiger-face_1f42f.png
+[okta-url]: https://developer.okta.com/signup?utm_source=JHipster&utm_medium=logo&utm_campaign=Gold-Sponsor
 
-Format: ![Alt Text](url)
+[markdown-tuto]: https://guides.github.com/features/mastering-markdown/
+[markdown-cheat]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[markdown-emoji]: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+[markdown-youtube]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
+[emoji-url]: https://emojipedia.org/
 
-As Kanye West said:  
+[font-url]: https://www.fontspace.com
+[quote-url]: http://wisdomquotes.com/spiritual-quotes/
+[shields-url]: https://shields.io
 
-> We're living the future so
-> the present is our past.

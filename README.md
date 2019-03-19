@@ -27,7 +27,7 @@ Subject                      | Tags         | Link
 
 
 ## Angular
-<img src="[angular:build]" alt="Linux Build Status"/>[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
+<img src="https://img.shields.io/badge/angular-build-success.svg" alt="Linux Build Status"/>[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg

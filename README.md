@@ -23,3 +23,4 @@ Subject                      | Tags         | Link
 
 [font-url]: https://www.fontspace.com
 [quote-url]: http://wisdomquotes.com/spiritual-quotes/
+[shields-url]: https://shields.io

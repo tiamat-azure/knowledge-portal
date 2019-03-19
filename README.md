@@ -27,9 +27,10 @@ Subject                      | Tags         | Link
 
 
 ## Angular
-[anugular:build][how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
+<img src="[angular:build]" alt="Linux Build Status"/>[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 
-[anugular:build]: https://img.shields.io/badge/angular-build-success.svg
+
+[angular:build]: https://img.shields.io/badge/angular-build-success.svg
 
 [tiger-image]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojione/178/tiger-face_1f42f.png
 [okta-url]: https://developer.okta.com/signup?utm_source=JHipster&utm_medium=logo&utm_campaign=Gold-Sponsor

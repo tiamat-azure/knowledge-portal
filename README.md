@@ -29,6 +29,7 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 ## Angular
 <img src="https://img.shields.io/badge/angular-build-success.svg" alt="Linux Build Status"/>[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
+
 https://conorliv.com/tips-to-reduce-angular-app-size.html
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg

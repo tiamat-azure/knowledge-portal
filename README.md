@@ -28,12 +28,13 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 [GraalVM] https://www.graalvm.org/
 
 ## Angular
-<img src="https://img.shields.io/badge/angular-build-success.svg" alt="Linux Build Status"/>[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
+<img src="https://img.shields.io/badge/angular-build-success.svg" alt="Linux Build Status"/><span>&nbsp;[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)</span>
 
 https://conorliv.com/tips-to-reduce-angular-app-size.html
 
 https://www.keycdn.com/blog/brotli-with-webpack
 
+https://compodoc.app/
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg
 

@@ -32,6 +32,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 https://conorliv.com/tips-to-reduce-angular-app-size.html
 
+https://www.keycdn.com/blog/brotli-with-webpack
+
+
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg
 
 [tiger-image]: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojione/178/tiger-face_1f42f.png

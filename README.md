@@ -23,18 +23,20 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 [Emoji][markdown-emoji]
 
 ## Container
-[quarkus] https://quarkus.io
+<img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [Quarkus](https://quarkus.io)
 
-[GraalVM] https://www.graalvm.org/
+<img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [GraalVM](https://www.graalvm.org)
+
 
 ## Angular
-<img src="https://img.shields.io/badge/angular-build-success.svg" alt="Linux Build Status"/><span>&nbsp;[how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)</span>
+<img src="https://img.shields.io/badge/angular-perf-success.svg" alt="Linux Build Status"/> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 
-https://conorliv.com/tips-to-reduce-angular-app-size.html
+<img src="https://img.shields.io/badge/angular-perf-success.svg" alt="Linux Build Status"/> [tips-to-reduce-angular-app-size](https://conorliv.com/tips-to-reduce-angular-app-size.html)
 
-https://www.keycdn.com/blog/brotli-with-webpack
+<img src="https://img.shields.io/badge/angular-perf-success.svg" alt="Linux Build Status"/> [brotli-with-webpack](https://www.keycdn.com/blog/brotli-with-webpack)
 
-https://compodoc.app/
+<img src="https://img.shields.io/badge/angular-doc-success.svg" alt="Linux Build Status"/> [compodoc](https://compodoc.app/)
+
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg
 

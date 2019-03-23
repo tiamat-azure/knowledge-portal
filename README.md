@@ -37,6 +37,10 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/angular-test-success.svg" /> [angular-7-unit-testing-code-coverage](https://medium.com/@manivel45/angular-7-unit-testing-code-coverage-5c7a238315b6)
  
+## Publishing
+<img src="https://img.shields.io/badge/publish-static-success.svg" /> [Surge](https://surge.sh)
+
+<img src="https://img.shields.io/badge/publish-static-success.svg" /> [Github Pages](https://pages.github.com)
  
 ## Container
 <img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [Quarkus](https://quarkus.io)

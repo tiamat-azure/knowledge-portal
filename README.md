@@ -36,7 +36,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 <img src="https://img.shields.io/badge/angular-test-success.svg" /> [angular-testing-with-headless-chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
 
 <img src="https://img.shields.io/badge/angular-test-success.svg" /> [angular-7-unit-testing-code-coverage](https://medium.com/@manivel45/angular-7-unit-testing-code-coverage-5c7a238315b6)
- 
+
+<img src="https://img.shields.io/badge/angular-productivity-success.svg" /> [vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets)
+
 ## Publishing
 <img src="https://img.shields.io/badge/publish-static-success.svg" /> [Surge](https://surge.sh)
 

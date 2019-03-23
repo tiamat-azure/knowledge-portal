@@ -43,6 +43,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/angular-devops-success.svg" /> [the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
 
+<img src="https://img.shields.io/badge/angular-testing-success.svg" /> [angular-testing-with-headless-chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
+
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg
 

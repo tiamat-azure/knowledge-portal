@@ -17,6 +17,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/angular-devops-success.svg" /> [the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
 
+<img src="https://img.shields.io/badge/angular-devops-success.svg" /> [codeclimate-travis-nodejs-integration](https://gist.github.com/rbournissent/0a704cae6347bbda460c)
+
 <img src="https://img.shields.io/badge/angular-test-success.svg" /> [angular-testing-with-headless-chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
 
 <img src="https://img.shields.io/badge/angular-test-success.svg" /> [angular-7-unit-testing-code-coverage](https://medium.com/@manivel45/angular-7-unit-testing-code-coverage-5c7a238315b6)

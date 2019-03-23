@@ -7,7 +7,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
  
 ## Various
-[opencollective](https://opencollective.com)
+[GithubPages](https://pages.github.com/)
+
+[OpenCollective](https://opencollective.com)
 
 [Emoji][emoji-url]
 

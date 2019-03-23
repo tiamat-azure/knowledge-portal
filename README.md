@@ -25,6 +25,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/angular-perf-success.svg" /> [brotli-with-webpack](https://www.keycdn.com/blog/brotli-with-webpack)
 
+<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [next-generation-server-compression-with-brotli](https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli)
+
 <img src="https://img.shields.io/badge/angular-doc-success.svg" /> [compodoc](https://compodoc.app/)
 
 <img src="https://img.shields.io/badge/angular-devops-success.svg" /> [the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)

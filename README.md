@@ -31,13 +31,15 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 
 ## Angular
-<img src="https://img.shields.io/badge/angular-perf-success.svg" alt="Linux Build Status"/> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
+<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 
-<img src="https://img.shields.io/badge/angular-perf-success.svg" alt="Linux Build Status"/> [tips-to-reduce-angular-app-size](https://conorliv.com/tips-to-reduce-angular-app-size.html)
+<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [tips-to-reduce-angular-app-size](https://conorliv.com/tips-to-reduce-angular-app-size.html)
 
-<img src="https://img.shields.io/badge/angular-perf-success.svg" alt="Linux Build Status"/> [brotli-with-webpack](https://www.keycdn.com/blog/brotli-with-webpack)
+<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [brotli-with-webpack](https://www.keycdn.com/blog/brotli-with-webpack)
 
-<img src="https://img.shields.io/badge/angular-doc-success.svg" alt="Linux Build Status"/> [compodoc](https://compodoc.app/)
+<img src="https://img.shields.io/badge/angular-doc-success.svg" /> [compodoc](https://compodoc.app/)
+
+<img src="https://img.shields.io/badge/angular-devops-success.svg" /> [the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
 
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg

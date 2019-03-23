@@ -5,7 +5,29 @@ One of my favorite quote:
 # knowledge-portal
 Purpose : centralize synthetic litterature, tutorials, tools about fullstack developement.
 
+
+## Angular
+<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
+
+<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [tips-to-reduce-angular-app-size](https://conorliv.com/tips-to-reduce-angular-app-size.html)
+
+<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [brotli-with-webpack](https://www.keycdn.com/blog/brotli-with-webpack)
+
+<img src="https://img.shields.io/badge/angular-doc-success.svg" /> [compodoc](https://compodoc.app/)
+
+<img src="https://img.shields.io/badge/angular-devops-success.svg" /> [the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
+
+<img src="https://img.shields.io/badge/angular-test-success.svg" /> [angular-testing-with-headless-chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
+
+<img src="https://img.shields.io/badge/angular-test-success.svg" /> [angular-7-unit-testing-code-coverage](https://medium.com/@manivel45/angular-7-unit-testing-code-coverage-5c7a238315b6)
  
+ 
+## Container
+<img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [Quarkus](https://quarkus.io)
+
+<img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [GraalVM](https://www.graalvm.org)
+
+
 ## Various
 [Github Pages](https://pages.github.com/)
 
@@ -26,24 +48,6 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 [Emoji][markdown-emoji]
 
-## Container
-<img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [Quarkus](https://quarkus.io)
-
-<img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [GraalVM](https://www.graalvm.org)
-
-
-## Angular
-<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
-
-<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [tips-to-reduce-angular-app-size](https://conorliv.com/tips-to-reduce-angular-app-size.html)
-
-<img src="https://img.shields.io/badge/angular-perf-success.svg" /> [brotli-with-webpack](https://www.keycdn.com/blog/brotli-with-webpack)
-
-<img src="https://img.shields.io/badge/angular-doc-success.svg" /> [compodoc](https://compodoc.app/)
-
-<img src="https://img.shields.io/badge/angular-devops-success.svg" /> [the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
-
-<img src="https://img.shields.io/badge/angular-testing-success.svg" /> [angular-testing-with-headless-chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
 
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg

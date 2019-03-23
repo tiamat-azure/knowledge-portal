@@ -41,6 +41,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/jvm-perf-success.svg" alt="Linux Build Status"/> [GraalVM](https://www.graalvm.org)
 
+## Security
+
+<img src="https://img.shields.io/badge/security-ssl-success.svg" /> [letsencrypt](https://letsencrypt.org)
 
 ## Various
 [Github Pages](https://pages.github.com/)

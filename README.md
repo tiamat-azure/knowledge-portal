@@ -52,6 +52,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 ## Benchmark/Performance
 <img src="https://img.shields.io/badge/bench-http-success.svg" /> [WRK](https://github.com/wg/wrk)
 
+<img src="https://img.shields.io/badge/bench-framework-success.svg" /> [StackShare](https://stackshare.io/)
+
+
 ### Basic Usage
 
     wrk -t12 -c400 -d30s http://127.0.0.1:8080/index.html

@@ -44,6 +44,13 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/publish-static-success.svg" /> [Github Pages](https://pages.github.com)
  
+## CI/CD
+<img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Travis](https://travis-ci.org)
+<img src="https://img.shields.io/badge/CI-CD-success.svg" /> [CircleCI](https://circleci.com)
+<img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Drone](https://drone.io/)
+
+
+
 ## Container
 <img src="https://img.shields.io/badge/jvm-perf-success.svg" /> [Quarkus](https://quarkus.io)
 

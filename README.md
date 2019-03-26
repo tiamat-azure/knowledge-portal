@@ -53,8 +53,6 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [CircleCI](https://circleci.com)
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Drone](https://drone.io/)
 
-
-
 ## Container
 <img src="https://img.shields.io/badge/jvm-perf-success.svg" /> [Quarkus](https://quarkus.io)
 
@@ -64,7 +62,6 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 <img src="https://img.shields.io/badge/bench-http-success.svg" /> [WRK](https://github.com/wg/wrk)
 
 <img src="https://img.shields.io/badge/bench-framework-success.svg" /> [StackShare](https://stackshare.io/)
-
 
 ### Basic Usage
 
@@ -85,8 +82,18 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
     Transfer/sec:    606.33MB
 
 ## Security
-
 <img src="https://img.shields.io/badge/security-ssl-success.svg" /> [letsencrypt](https://letsencrypt.org)
+
+## Lorem Ipsum
+<img src="https://img.shields.io/badge/lorem-picsum-success.svg" /> [picsum](https://picsum.photos)
+
+    https://picsum.photos/200/300/?random
+    https://picsum.photos/200/300/?gravity=east
+    https://picsum.photos/200/300/?blur
+    
+<img src="https://img.shields.io/badge/lorem-picsum-success.svg" /> [unsplash](https://unsplash.com/collections/3548107/journey)   
+
+
 
 ## Various
 [Github Pages](https://pages.github.com/)

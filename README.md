@@ -18,6 +18,10 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/compodoc/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/compodoc/sponsors/badge.svg" /></a>
 </p>
 
+## Todo
+
+<img src="https://img.shields.io/badge/todo-docker--go--drone-success.svg" /> [Drone plugin](https://docs.drone.io/plugins/examples/golang/)
+
 ## Angular
 <img src="https://img.shields.io/badge/angular-perf-success.svg" /> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 

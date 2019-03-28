@@ -18,6 +18,14 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/compodoc/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/compodoc/sponsors/badge.svg" /></a>
 </p>
 
+## Payzen
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Doc](https://payzen.io/fr-FR/form-payment/quick-start-guide/tla1427193445290.pdf)
+
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Payzen Demo Redirect](https://payzen.eu/demo/fr/redirected/)
+
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Github Java SDK](https://github.com/payzen/payzen-webservices-v5-sdk-java)
+
+
 ## Todo
 
 <img src="https://img.shields.io/badge/todo-docker--go--drone-success.svg" /> [Drone plugin](https://docs.drone.io/plugins/examples/golang/)

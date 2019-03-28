@@ -81,6 +81,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
     Requests/sec: 748868.53
     Transfer/sec:    606.33MB
 
+<img src="https://img.shields.io/badge/bench-result-success.svg" /> [web-rest-api-benchmark-on-a-real-life-application](https://medium.com/@mihaigeorge.c/web-rest-api-benchmark-on-a-real-life-application-ebb743a5d7a3)
+
+https://medium.com/@mihaigeorge.c/web-rest-api-benchmark-on-a-real-life-application-ebb743a5d7a3
 ## Security
 <img src="https://img.shields.io/badge/security-ssl-success.svg" /> [letsencrypt](https://letsencrypt.org)
 

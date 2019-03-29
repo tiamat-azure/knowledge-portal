@@ -25,7 +25,7 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Github Java SDK](https://github.com/payzen/payzen-webservices-v5-sdk-java)
 
-<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Back Office EpayNC](https://epaync.nc/vads-merchant)
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Back Office EpayNC](https://epaync.nc/vads-merchant/)
 
 
 

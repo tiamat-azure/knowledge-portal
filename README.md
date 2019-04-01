@@ -54,6 +54,10 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/angular-productivity-success.svg" /> [vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets)
 
+## Mobile
+<img src="https://img.shields.io/badge/mobile-ionic-success.svg" /> [IONIC Signature Pad](https://www.youtube.com/watch?v=VXcdI_grUAA)
+
+
 ## Publishing
 <img src="https://img.shields.io/badge/publish-static-success.svg" /> [Surge](https://surge.sh)
 

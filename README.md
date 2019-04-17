@@ -62,7 +62,12 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 <img src="https://img.shields.io/badge/publish-static-success.svg" /> [Surge](https://surge.sh)
 
 <img src="https://img.shields.io/badge/publish-static-success.svg" /> [Github Pages](https://pages.github.com)
- 
+
+## Java
+<img src="https://img.shields.io/badge/java-config-success.svg" /> [Eclipse MicroProfile](https://developers.redhat.com/blog/2018/11/21/eclipse-microprofile-for-spring-boot-developers/)
+
+
+
 ## CI/CD
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Travis](https://travis-ci.org)
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [CircleCI](https://circleci.com)

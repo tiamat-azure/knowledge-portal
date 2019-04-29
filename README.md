@@ -36,6 +36,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 ## Angular
 <img src="https://img.shields.io/badge/angular-perf-success.svg" /> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 
+<img src="https://img.shields.io/badge/ES6-typescript-success.svg" /> [angular-es6-typescript](https://codecraft.tv/courses/angular/es6-typescript/1/)
+
 <img src="https://img.shields.io/badge/angular-perf-success.svg" /> [tips-to-reduce-angular-app-size](https://conorliv.com/tips-to-reduce-angular-app-size.html)
 
 <img src="https://img.shields.io/badge/angular-perf-success.svg" /> [brotli-with-webpack](https://www.keycdn.com/blog/brotli-with-webpack)

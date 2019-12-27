@@ -33,6 +33,10 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/todo-docker--go--drone-success.svg" /> [Drone plugin](https://docs.drone.io/plugins/examples/golang/)
 
+<img src="https://img.shields.io/badge/todo-justauth-success.svg" /> [JustAuth](https://github.com/justauth)
+
+<img src="https://img.shields.io/badge/todo-mica-success.svg" /> [Mica](https://github.com/lets-mica/mica/tree/master/mica-http)
+
 ## Angular
 <img src="https://img.shields.io/badge/angular-perf-success.svg" /> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 

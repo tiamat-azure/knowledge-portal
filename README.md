@@ -6,6 +6,7 @@ One of my favorite quote:
 Purpose : centralize synthetic litterature, tutorials, tools about fullstack developement.
 
 ## Badges samples
+
 <p align="center">
   <a href="https://travis-ci.org/tiamat-azure/angular-brotli.svg?branch=master"><img src="https://img.shields.io/travis/tiamat-azure/angular-brotli/master.svg?label=Linux%20build" alt="Linux Build Status"/></a>
   <a href="https://ci.appveyor.com/project/vogloblinsky/compodoc/branch/develop"><img src="https://img.shields.io/appveyor/ci/vogloblinsky/compodoc/develop.svg?label=Windows%20build" alt="Windows Build Status"/></a>
@@ -17,17 +18,6 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
   <a href="https://opensource.org/licenses/MIT"><img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT badge"/></a>
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/compodoc/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/compodoc/sponsors/badge.svg" /></a>
 </p>
-
-## Payzen
-<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Doc](https://payzen.io/fr-FR/form-payment/quick-start-guide/tla1427193445290.pdf)
-
-<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Payzen Demo Redirect](https://payzen.eu/demo/fr/redirected/)
-
-<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Github Java SDK](https://github.com/payzen/payzen-webservices-v5-sdk-java)
-
-<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Back Office EpayNC](https://epaync.nc/vads-merchant/)
-
-
 
 ## Todo
 
@@ -41,7 +31,18 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/todo-pig--log4j-success.svg" /> [Pig-log4j](https://gitee.com/log4j/pig)
 
+## Payzen
+
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Doc](https://payzen.io/fr-FR/form-payment/quick-start-guide/tla1427193445290.pdf)
+
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Payzen Demo Redirect](https://payzen.eu/demo/fr/redirected/)
+
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Github Java SDK](https://github.com/payzen/payzen-webservices-v5-sdk-java)
+
+<img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Back Office EpayNC](https://epaync.nc/vads-merchant/)
+
 ## Angular
+
 <img src="https://img.shields.io/badge/angular-perf-success.svg" /> [how-to-bundle-an-angular-app-for-production](https://stackoverflow.com/questions/37631098/how-to-bundle-an-angular-app-for-production)
 
 <img src="https://img.shields.io/badge/ES6-typescript-success.svg" /> [angular-es6-typescript](https://codecraft.tv/courses/angular/es6-typescript/1/)
@@ -65,30 +66,33 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 <img src="https://img.shields.io/badge/angular-productivity-success.svg" /> [vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets)
 
 ## Mobile
+
 <img src="https://img.shields.io/badge/mobile-ionic-success.svg" /> [IONIC Signature Pad](https://www.youtube.com/watch?v=VXcdI_grUAA)
 
-
 ## Publishing
+
 <img src="https://img.shields.io/badge/publish-static-success.svg" /> [Surge](https://surge.sh)
 
 <img src="https://img.shields.io/badge/publish-static-success.svg" /> [Github Pages](https://pages.github.com)
 
 ## Java
+
 <img src="https://img.shields.io/badge/java-config-success.svg" /> [Eclipse MicroProfile](https://developers.redhat.com/blog/2018/11/21/eclipse-microprofile-for-spring-boot-developers/)
 
-
-
 ## CI/CD
+
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Travis](https://travis-ci.org)
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [CircleCI](https://circleci.com)
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Drone](https://drone.io/)
 
 ## Container
+
 <img src="https://img.shields.io/badge/jvm-perf-success.svg" /> [Quarkus](https://quarkus.io)
 
 <img src="https://img.shields.io/badge/jvm-perf-success.svg" /> [GraalVM](https://www.graalvm.org)
 
 ## Benchmark/Performance
+
 <img src="https://img.shields.io/badge/bench-http-success.svg" /> [WRK](https://github.com/wg/wrk)
 
 <img src="https://img.shields.io/badge/bench-framework-success.svg" /> [StackShare](https://stackshare.io/)
@@ -114,9 +118,11 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 <img src="https://img.shields.io/badge/bench-result-success.svg" /> [web-rest-api-benchmark-on-a-real-life-application](https://medium.com/@mihaigeorge.c/web-rest-api-benchmark-on-a-real-life-application-ebb743a5d7a3)
 
 ## Security
+
 <img src="https://img.shields.io/badge/security-ssl-success.svg" /> [letsencrypt](https://letsencrypt.org)
 
 ## Lorem Ipsum
+
 <img src="https://img.shields.io/badge/lorem-picsum-success.svg" /> [picsum](https://picsum.photos)
 
     https://picsum.photos/200/300/?random
@@ -125,9 +131,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
     
 <img src="https://img.shields.io/badge/lorem-picsum-success.svg" /> [unsplash](https://unsplash.com/collections/3548107/journey)   
 
-
-
 ## Various
+
 [Github Pages](https://pages.github.com/)
 
 [OpenCollective](https://opencollective.com)
@@ -143,12 +148,12 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 [CanIUse](https://caniuse.com)
 
 ## Markdown
+
 [Tuto][markdown-tuto]
 
 [CheatSheet][markdown-cheat]
 
 [Emoji][markdown-emoji]
-
 
 
 [angular:build]: https://img.shields.io/badge/angular-build-success.svg

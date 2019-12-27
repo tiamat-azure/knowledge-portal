@@ -31,6 +31,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/todo-pig--log4j-success.svg" /> [Pig-log4j](https://gitee.com/log4j/pig)
 
+<img src="https://img.shields.io/badge/todo-monica--prm-success.svg" /> [Monica-PRM](https://github.com/monicahq/monica)
+
 ## Payzen
 
 <img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Doc](https://payzen.io/fr-FR/form-payment/quick-start-guide/tla1427193445290.pdf)

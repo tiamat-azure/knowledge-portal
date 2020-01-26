@@ -84,7 +84,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 ## CI/CD
 
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Travis](https://travis-ci.org)
+
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [CircleCI](https://circleci.com)
+
 <img src="https://img.shields.io/badge/CI-CD-success.svg" /> [Drone](https://drone.io/)
 
 ## Container
@@ -132,6 +134,12 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
     https://picsum.photos/200/300/?blur
     
 <img src="https://img.shields.io/badge/lorem-picsum-success.svg" /> [unsplash](https://unsplash.com/collections/3548107/journey)   
+
+## Web
+
+<img src="https://img.shields.io/badge/sass-doc-success.svg" /> [SaSS](https://sass-lang.com/guide)
+
+<img src="https://img.shields.io/badge/browser-compatibility-success.svg" /> [Can I Use](https://caniuse.com/#feat=http3)
 
 ## Various
 

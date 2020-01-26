@@ -135,11 +135,13 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
     
 <img src="https://img.shields.io/badge/lorem-picsum-success.svg" /> [unsplash](https://unsplash.com/collections/3548107/journey)   
 
-## Web
+## Web / CSS
 
 <img src="https://img.shields.io/badge/sass-doc-success.svg" /> [SaSS](https://sass-lang.com/guide)
 
 <img src="https://img.shields.io/badge/browser-compatibility-success.svg" /> [Can I Use](https://caniuse.com/#feat=http3)
+
+<img src="https://img.shields.io/badge/bootstrap-theming-success.svg" /> [Bootstrap 4 - Theme](https://getbootstrap.com/docs/4.0/getting-started/theming/)
 
 ## Various
 

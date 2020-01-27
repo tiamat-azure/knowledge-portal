@@ -137,20 +137,31 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 ## Web / CSS
 
-<img src="https://img.shields.io/badge/sass-doc-success.svg" /> [SaSS](https://sass-lang.com/guide)
+<img src="https://img.shields.io/badge/doc-sass-success.svg" /> [SaSS](https://sass-lang.com/guide)
 
 <img src="https://img.shields.io/badge/browser-compatibility-success.svg" /> [Can I Use](https://caniuse.com/#feat=http3)
 
-<img src="https://img.shields.io/badge/bootstrap-theming-success.svg" /> [Bootstrap 4 - Theme](https://getbootstrap.com/docs/4.0/getting-started/theming/)
+<img src="https://img.shields.io/badge/theming-bootstrap-success.svg" /> [Bootstrap 4 - Theme](https://getbootstrap.com/docs/4.0/getting-started/theming/)
+
+<img src="https://img.shields.io/badge/css-normalize-success.svg" /> [Normalize](https://necolas.github.io/normalize.css/)
 
 ## Online Web editor / compilers
 
-<img src="https://img.shields.io/badge/webcompiler-all-success.svg" /> [Coding Ground](https://www.tutorialspoint.com/codingground.htm)
+<img src="https://img.shields.io/badge/web--compiler-front--end-success.svg" /> [Coding Ground](https://www.tutorialspoint.com/codingground.htm)
 
-<img src="https://img.shields.io/badge/webcompiler-java-success.svg" /> [Codiva](https://www.codiva.io)
+<img src="https://img.shields.io/badge/web--compiler-front--end-success.svg" /> [Codepen](https://codepen.io/)
 
-<iframe src="https://www.codiva.io/em/p/b44b13f0-3559-4956-a47d-0cfe8db73f9e" style="height: 600px; min-height: 420px; max-height: 90vh; width: 100%; overflow: hidden;"></iframe>
+<img src="https://img.shields.io/badge/web--compiler-front--end-success.svg" /> [Scrimba](https://scrimba.com/)
 
+<img src="https://img.shields.io/badge/web--compiler-java-success.svg" /> [Codiva](https://www.codiva.io)
+
+<img src="https://img.shields.io/badge/web--compiler-java-success.svg" /> [Ripl](https://www.codiva.io)
+
+## Chatbot
+
+<img src="https://img.shields.io/badge/chatbot-api-success.svg" /> [Wit AI](https://wit.ai/)
+
+<img src="https://img.shields.io/badge/chatbot-tutorial-success.svg" /> [Wit AI - Tutorial](https://www.udemy.com/course/chatbots-chatbot-messenger-avec-witai-nodejs-et-heroku/)
 
 ## Various
 

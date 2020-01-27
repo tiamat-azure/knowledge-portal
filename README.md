@@ -33,6 +33,9 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/todo-monica--prm-success.svg" /> [Monica-PRM](https://github.com/monicahq/monica)
 
+<img src="https://img.shields.io/badge/todo-webapp--training-success.svg" /> [5 apps to build with React or Angular](https://www.freecodecamp.org/news/5-react-projects-you-need-in-your-portfolio/)
+
+
 ## Payzen
 
 <img src="https://img.shields.io/badge/payzen-lyra-success.svg" /> [Doc](https://payzen.io/fr-FR/form-payment/quick-start-guide/tla1427193445290.pdf)

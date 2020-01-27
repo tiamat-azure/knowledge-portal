@@ -145,7 +145,12 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 ## Online Web editor / compilers
 
-<img src="https://img.shields.io/badge/webeditor-compiler-success.svg" /> [Coding Ground](https://www.tutorialspoint.com/codingground.htm)
+<img src="https://img.shields.io/badge/webcompiler-all-success.svg" /> [Coding Ground](https://www.tutorialspoint.com/codingground.htm)
+
+<img src="https://img.shields.io/badge/webcompiler-java-success.svg" /> [Codiva](https://www.codiva.io)
+
+<iframe src="https://www.codiva.io/em/p/b44b13f0-3559-4956-a47d-0cfe8db73f9e" style="height: 600px; min-height: 420px; max-height: 90vh; width: 100%; overflow: hidden;"></iframe>
+
 
 ## Various
 

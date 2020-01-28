@@ -152,6 +152,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/css-ng--tailwind--css-success.svg" /> [ng-tailwindcss](https://www.npmjs.com/package/ng-tailwindcss)
 
+<img src="https://img.shields.io/badge/css-purge--css-success.svg" /> [Purge CSS](https://purgecss.com/#table-of-contents)
+
 ## Online Web editor / compilers
 
 <img src="https://img.shields.io/badge/web--compiler-front--end-success.svg" /> [Coding Ground](https://www.tutorialspoint.com/codingground.htm)

@@ -148,7 +148,8 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/css-normalize-success.svg" /> [Normalize](https://necolas.github.io/normalize.css/)
 
-<img src="https://img.shields.io/badge/css-tailwind-success.svg" /> [Tailwind CSS](https://scrimba.com/p/pdq3QsM/cPJZqqC3)
+<img src="https://img.shields.io/badge/css-tailwind--css-success.svg" /> [Tailwind CSS](https://scrimba.com/p/pdq3QsM/cPJZqqC3)
+<img src="https://img.shields.io/badge/css-ng--tailwind--css-success.svg" /> [ng-tailwindcss](https://www.npmjs.com/package/ng-tailwindcss)
 
 ## Online Web editor / compilers
 

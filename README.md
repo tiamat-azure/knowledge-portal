@@ -144,9 +144,11 @@ Purpose : centralize synthetic litterature, tutorials, tools about fullstack dev
 
 <img src="https://img.shields.io/badge/browser-compatibility-success.svg" /> [Can I Use](https://caniuse.com/#feat=http3)
 
-<img src="https://img.shields.io/badge/theming-bootstrap-success.svg" /> [Bootstrap 4 - Theme](https://getbootstrap.com/docs/4.0/getting-started/theming/)
+<img src="https://img.shields.io/badge/css-bootstrap-success.svg" /> [Bootstrap 4 - Theme](https://getbootstrap.com/docs/4.0/getting-started/theming/)
 
 <img src="https://img.shields.io/badge/css-normalize-success.svg" /> [Normalize](https://necolas.github.io/normalize.css/)
+
+<img src="https://img.shields.io/badge/css-tailwind-success.svg" /> [Tailwind CSS](https://scrimba.com/p/pdq3QsM/cPJZqqC3)
 
 ## Online Web editor / compilers
 
